@@ -3,8 +3,8 @@ project(ps)
 
 set(CMAKE_CXX_STANDARD 17)
 
-set(NAMESPACE baekjoon)
-set(PROBLEM 1000)
+set(NAMESPACE ucpc/2024_1)
+set(PROBLEM 11)
 
 
 add_executable(ps
